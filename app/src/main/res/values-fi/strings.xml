@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sää Sovellus</string>
+    <string name="advanced_details">Lisä tiedot</string>
+    <string name="temperature">Lämpötila</string>
+    <string name="min_temperature">Minimi lämpö</string>
+    <string name="max_temperature">Maksimi lämpö</string>
+    <string name="wind_speed">Tuuli</string>
+    <string name="humidity">Ilmankosteus</string>
+    <string name="switch_to_advanced_view">Lisänäkymä</string>
+    <string name="weather">Sää</string>
+    <string name="back">Vaihda takaisin normaaliin näkymään</string>
+    <string name="placeholder">Muuttuja</string>
+    <string name="city_name">Kaupungin nimi</string>
+    <string name="date">Päivämäärä</string>
+</resources>
