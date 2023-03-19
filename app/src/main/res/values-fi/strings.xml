@@ -13,4 +13,5 @@
     <string name="placeholder">Muuttuja</string>
     <string name="city_name">Kaupungin nimi</string>
     <string name="date">Päivämäärä</string>
+    <string name="refresh">Päivitä</string>
 </resources>
